@@ -1,0 +1,55 @@
+{
+        "intents": [
+          {
+            "tag": "greeting",
+            "patterns": ["Hi", "Hello", "Hey"],
+            "responses": ["Hello! Welcome to the Python coding assistant. How can I help you today?"]
+          },
+          {
+            "tag": "goodbye",
+            "patterns": ["Bye", "Goodbye", "See you later"],
+            "responses": ["Goodbye! Keep coding and learning!"]
+          },
+          {
+            "tag": "thanks",
+            "patterns": ["Thank you", "Thanks", "Thanks a lot"],
+            "responses": ["You're welcome! Happy coding!"]
+          },
+          {
+            "tag": "help",
+            "patterns": ["Help", "I need help", "Can you help me"],
+            "responses": ["Of course! What do you need help with?"]
+          },
+          {
+            "tag": "python_basics",
+            "patterns": ["What are the basics of Python?", "Tell me about Python basics", "Python fundamentals"],
+            "responses": ["Python basics include variables, data types, loops, and functions. Would you like more details on any of these topics?"]
+          },
+          {
+            "tag": "coding_environment",
+            "patterns": ["How do I set up a coding environment for Python?", "Python IDE setup"],
+            "responses": ["You can set up a Python coding environment using IDEs like PyCharm or editors like VS Code. Would you like a detailed guide?"]
+          },
+          {
+            "tag": "learning_resources",
+            "patterns": ["What are some good resources to learn Python?", "Python learning materials"],
+            "responses": ["Some good resources to learn Python include online tutorials, books, and interactive coding platforms. Would you like recommendations?"]
+          },
+          {
+            "tag": "practice_exercises",
+            "patterns": ["Do you have any Python coding exercises for practice?", "Python practice problems"],
+            "responses": ["Yes, I can provide you with some Python coding exercises. What level of difficulty are you looking for?"]
+          },
+          {
+                "tag": "projects",
+                "patterns": ["What are some good Python projects for beginners?", "Python project ideas"],
+                "responses": ["Some beginner-friendly Python projects include a todo list app, a simple game, or a web scraper. Would you like more ideas?"]
+          },
+          {
+            "tag": "fallback",
+            "patterns": [],
+            "responses": ["I'm sorry, I didn't understand that. Can you please rephrase your question?"]
+          }
+        ]
+      }
+      
