@@ -8,5 +8,8 @@ Load the Same Pickle and Model to Build the Framework to Process the Responses.
 At Last, We Show How the Inputs are Processed and Give the Reponses.
 
 It is a subject oriented chatBot, it helps a python beginner to start learning and coding in python.
+<br>
 Here is a demo :
+<br>
+<br>
 ![chatBotSS](https://github.com/Hetvi-Solanki/Chat-Bot/assets/69106430/7983605a-3c78-46a6-a62d-47c2dfcb3dc0)
